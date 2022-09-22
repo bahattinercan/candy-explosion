@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e16ccbdd85a6b64ea54debc848347a7, type: 3}
+  m_Name: Level 17
+  m_EditorClassIdentifier: 
+  height: 9
+  width: 9
+  boardLayout:
+  - x: 0
+    y: 0
+    dotType: 0
+    dotColor: 0
+  - x: 1
+    y: 0
+    dotType: 0
+    dotColor: 0
+  - x: 0
+    y: 1
+    dotType: 0
+    dotColor: 0
+  - x: 8
+    y: 8
+    dotType: 0
+    dotColor: 0
+  - x: 7
+    y: 8
+    dotType: 0
+    dotColor: 0
+  - x: 8
+    y: 7
+    dotType: 0
+    dotColor: 0
+  - x: 0
+    y: 8
+    dotType: 0
+    dotColor: 0
+  - x: 1
+    y: 7
+    dotType: 0
+    dotColor: 0
+  - x: 0
+    y: 7
+    dotType: 0
+    dotColor: 0
+  - x: 8
+    y: 0
+    dotType: 0
+    dotColor: 0
+  - x: 8
+    y: 1
+    dotType: 0
+    dotColor: 0
+  - x: 7
+    y: 0
+    dotType: 0
+    dotColor: 0
+  dots:
+  - {fileID: 2538966708200238675, guid: 3cd077db7bcd8044fa7587bbee2f154e, type: 3}
+  - {fileID: 5038345832379664942, guid: 8e993774193f411469274a37521db9b9, type: 3}
+  - {fileID: 7081722200566409475, guid: 7803e7be9d0378b4480a5a1ca4cfa055, type: 3}
+  - {fileID: 6698142797380736387, guid: bb5810a59229652439e2ca6c645b0dc3, type: 3}
+  requirements:
+    gameType: 0
+    counterValue: 30
+  goals:
+  - numberNeeded: 12
+    dotColor: 0
+    dotType: 0
+  - numberNeeded: 12
+    dotColor: 0
+    dotType: 0
+  - numberNeeded: 12
+    dotColor: 0
+    dotType: 0
+  maxGoalMultiplier: 5

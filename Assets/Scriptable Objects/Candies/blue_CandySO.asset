@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c90ad457847e88546abdb957ef5a97d1, type: 3}
+  m_Name: blue_CandySO
+  m_EditorClassIdentifier: 
+  normalP: {fileID: 2538966708200238675, guid: 3cd077db7bcd8044fa7587bbee2f154e, type: 3}
+  rowP: {fileID: 7206713233651523416, guid: d94837d59410edf40889e1e3791486f3, type: 3}
+  columnP: {fileID: 7206713233651523416, guid: 684c7b06cf11a6e44b797630c2314e33, type: 3}
+  adjacentP: {fileID: 7206713233651523416, guid: 8121ec0decdf59846b16204251d9fb14,
+    type: 3}
+  normalSprite:
+  - {fileID: 21300000, guid: 1e6b36bd5e34b4d619ad8fcbc50d0c0e, type: 3}
+  - {fileID: 21300000, guid: 7944a97539d2843c2bf4e444bd722b2b, type: 3}
+  - {fileID: 21300000, guid: c4c6440737e0a411cb7581f6b18d4a1a, type: 3}
+  rowSprite:
+  - {fileID: 21300000, guid: f23a4684c7ac845048af7bdf52df457d, type: 3}
+  - {fileID: 21300000, guid: d98c139a609824827a93e86f15da05c3, type: 3}
+  columnSprite:
+  - {fileID: 21300000, guid: 22fdee2ab693f49ccb8c559565015889, type: 3}
+  - {fileID: 21300000, guid: d98c139a609824827a93e86f15da05c3, type: 3}
+  adjacentSprite:
+  - {fileID: 21300000, guid: 7a945f8213aad43afa2148ca53bcd422, type: 3}
+  - {fileID: 21300000, guid: adf4df72db7264007a5d878256e2e61b, type: 3}

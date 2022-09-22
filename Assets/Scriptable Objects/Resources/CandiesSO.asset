@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 436806529af55244ab2673f250705da9, type: 3}
+  m_Name: CandiesSO
+  m_EditorClassIdentifier: 
+  blueCandySO: {fileID: 11400000, guid: a514f95a337e480428d6723ffe393377, type: 2}
+  purpleCandySO: {fileID: 11400000, guid: 9d646d552675e264b8955d61edd1741a, type: 2}
+  redCandySO: {fileID: 11400000, guid: 56b3df6f46702064cabf370a86b853a9, type: 2}
+  orangeCandySO: {fileID: 11400000, guid: 06d7c2a37d2d487419caac674bac1979, type: 2}
+  colorCandyP: {fileID: 5971016494080456845, guid: d1e1ccd8e0aa69a4099386698ced3867,
+    type: 3}
+  colorCandySprite: {fileID: 21300000, guid: fb9f90235c63e37439dd0a3730348490, type: 3}
+  breakableSprite: {fileID: 21300000, guid: a2d44c4a6a2e13d4480e08c09d4abcbd, type: 3}
+  concreteSprite: {fileID: 21300000, guid: e4c745db97eafad47aa2bd0ce7822d5a, type: 3}
+  lockedSprite: {fileID: 21300000, guid: 390cbd3c960d1b8459b063ca6bf1e7f9, type: 3}
+  slimeSprite: {fileID: 21300000, guid: c5af107760e0485488e5fcc9286b3492, type: 3}
